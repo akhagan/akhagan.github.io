@@ -22,11 +22,11 @@ A list of the non-expert science communication efforts I have participated in.
 
 #### American Society for Microbiology Blog (Microbial Sciences):
 
-**Senior Contributor, 2015 - Present.**
+**Senior Contributor, 2015 - Present.** [Site profile](https://www.asm.org/Biographies/Ada-Hagan)
+Write original content for the blog each month.
+Collaborated to define the focus and generate governance documents.
 
-* Write original content for ASM's blog each month.
-* Collaborated to define the focus and generate governance documents.
-
+* [Old wives' tales and garlic as an antibiotic: Are microbial myths fact or fiction?](https://www.asm.org/Articles/2019/July/Old-Wives-Tales-and-Garlic-as-an-Antibiotic-Are-Mi). July 19, 2019.
 * [Altering the academic ecosystem: Graduate education reports propose critical reforms](https://www.asm.org/Articles/2019/June/Altering-the-Academic-Ecosystem-Graduate-Education). June 22, 2019.
 * [Probing the depths of life](https://www.asm.org/Articles/2019/May/Probing-the-Depths-of-Life). May 24, 2019
 * [How to train your T cell(s): The hidden world](https://www.asm.org/Articles/2019/March/How-to-Train-Your-T-Cell(s)-The-Hidden-World). Mar 29, 2019
@@ -57,12 +57,11 @@ A list of the non-expert science communication efforts I have participated in.
 #### MiSciWriters:
 
 **Founding Editor-in-Chief, 2015 - 2016.**
-
-  * Recruited and organized a collaborative leadership team and faculty mentor to found the student-run blog (www.MiSciWriters.com) to practice science communication, explore writing careers, and raise awareness of science communication by researchers.
-    *	Delegated tasks including: web design, social media, outreach, student recruitment, resource compilation and group meetings. 
-    * Solicited pieces for, and managed, a collaborative editing workflow. 
-    *	Copy-edited, scheduled, and prepared pieces for publication. 
-    * Facilitated and supported collaborations with other groups including Rackham Graduate school, the 2016 Michigan Meeting, and RELATE. 
+Recruited and organized a collaborative leadership team and faculty mentor to found the student-run blog ([www.MiSciWriters.com](www.misciwriters.com)) to practice science communication, explore writing careers, and raise awareness of science communication by researchers.
+  *	Delegated tasks including: web design, social media, outreach, student recruitment, resource compilation and group meetings. 
+  * Solicited pieces for, and managed, a collaborative editing workflow. 
+  *	Copy-edited, scheduled, and prepared pieces for publication. 
+  * Facilitated and supported collaborations with other groups including Rackham Graduate school, the 2016 Michigan Meeting, and RELATE. 
 
 
 * [Spinach and siderophores, part 2: Getting the upper hand](https://misciwriters.com/2016/11/01/spinach-and-siderophores-part-2-getting-the-upper-hand/) November 1, 2016; (Featured on  [GotScience](http://www.gotscience.org/2017/06/spinach-siderophores-getting-upper-hand/). June 22, 2017)
@@ -78,14 +77,12 @@ A list of the non-expert science communication efforts I have participated in.
 #### Assorted Outlets:
 
 **Associate Editor**, Department of Microbiology & Immunology Newsletter, 2018 - Present.
-
-* Create, organize, and copy-edit original content for department newsletters.
+Create, organize, and copy-edit original content for department newsletters.
 
 
 **Media Coordinator**, Organization for Microbiology and Immunology Students, 2015 -2018.
-	
-* Create original content for department newsletters, take and collate event photographs. 
-*	Two articles published in other venues-Microbe Magazine and the Michigan Health Lab blog.
+Create original content for department newsletters, take and collate event photographs. 
+Two articles published in other venues-Microbe Magazine and the Michigan Health Lab blog.
 
 
 * [Cephalopods are forcing us to rethink what it means to be colorblind](https://massivesci.com/articles/cephalopods-are-forcing-us-to-rethink-what-it-means-to-be-colorblind/) Massive Sci. June 21, 2017

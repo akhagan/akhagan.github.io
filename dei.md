@@ -4,7 +4,7 @@ category: dei
 title: Diversity, Equity, & Inclusion
 ---
 
-**My statement on Diversity, Equity, & Inclusion:**
+**My thoughts:**
 
 Growing up poor, there were few things my family could afford and any complaint about
 fairness received my father's patented response: "Life isn't fair." I never dared to voice my internal reply of "But that doesn't mean it shouldn't be."
@@ -42,16 +42,13 @@ These efforts are small, and only a beginning, but they are the foundation of wh
     * Research in preparation for publication.
 
 * **Instructor, Software Carpentry**, Present.
-	  
-	  * Teach coding to novice learners in a Women in Science and Engineering workshop.
+    * Teach coding to novice learners in a Women in Science and Engineering workshop.
 
 * **Participant, Future of Research Mentoring Symposium**, UM Satellite, June 2019.
-	  
-	  * Advocating for mentorship accountability.
+    * Advocating for mentorship accountability.
 	  
 
 * **Planner, Department Retreat DEI Session**, October 2018.
-		
 	 * Helped brainstorm and plan a session exploring DEI that resulted in actionable items for incorporation by our department's DEI committee.
 
 * **Instructor, Ethiopia-Michigan Platform for Advancing Collaborative Engagements**, 2014 - 2015.
