@@ -1,12 +1,12 @@
 # Site settings
-title: DiversifyMicrobiology
-email: diversifymicrobiology@gmail.com
+title: Making Science Accessible
+email: akhagan@umich.edu
 description: > # this means to ignore newlines until "baseurl:"
-   The website for DiversifyMicrobiology.
+   The website for Ada K. Hagan's mission to make science accessible.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://DiversifyMicrobiology.github.io" # the base hostname & protocol for your site
-twitter_username: DiversifyMicro
-github_username:  diversifymicrobiology 
+url: "http://akhagan.github.io" # the base hostname & protocol for your site
+twitter_username: adahagan
+github_username:  akhagan 
 array: []
 
 # Build settings
