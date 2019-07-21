@@ -1,6 +1,6 @@
 ---
 layout: index_page
-category: research
+category: education
 title: Education
 ---
 
