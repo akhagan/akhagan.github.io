@@ -7,6 +7,12 @@ title: Research
 ### Publications:
 ORCID ID: [0000-0001-8481-1457](https://orcid.org/0000-0001-8481-1457)
 
+* *Hagan, A.K.*, Topçuoğlu, B.M., Gregory, M.E., Barton, H.A., and P.D. Schloss. Women Are Underrepresented and Receive Differential Outcomes at ASM Journals: a Six-Year Retrospective Analysis. _mBio_ 2020; 11:e01680-20. doi: [10.1128/mBio.01680-20](https://doi.org/10.1128/mBio.01680-20)
+
+* *Hagan, A.K.*, et. al, Ten simple rules to increase computational skills among biologists with Code Clubs. _PLoS Computational Biology_ 2020; 16(8): e1008119. doi: [10.1371/journal.pcbi.1008119](https://doi.org/10.1371/journal.pcbi.1008119)
+
+* *Hagan, A.K.*, Pollet, R.M., and J. Libertucci. Suggestions for Improving Invited Speaker Diversity To Reflect Trainee Diversity. _J Microbiol Biol Educ._ 2020; 21(1): 21.1.22. doi: [10.1128/jmbe.v21i1.2105](https://dx.doi.org/10.1128%2Fjmbe.v21i1.2105)
+
 * *Hagan, A.K.*, Plotnik, Y., Dingle, R., Mendel, Z., Cendrowski, S., Sherman, D., Tripathi, A., and P.C. Hanna. Petrobactin protects against oxidative stress and enhances sporulation efficiency in _Bacillus anthracis_ Sterne _mBio_. 2018 Nov; 9:e02079-18 doi: [10.1128/mBio.02079-18](www.dx.doi.org/10.1128/mBio.02079-18)
 
 * *Hagan, A.K.*, Tripathi, A., Berger, D., Sherman, D., and P.C. Hanna. Petrobactin is exported from _Bacillus anthracis_ by the RND-type exporter ApeX. _mBio_. 2017 Sept; 8:[e01238-17](www.dx.doi.org/10.1128/mBio.01238-17).
