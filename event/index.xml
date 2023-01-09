@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Ada K Hagan, PhdD</title>
+    <link>https://akhagan.com/event/</link>
+      <atom:link href="https://akhagan.com/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Jun 2023 16:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akhagan.com/media/icon_huc429f2fc0b4e7d8d8064836fcb38b408_31117_512x512_fill_lanczos_center_3.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://akhagan.com/event/</link>
+    </image>
+    
+    <item>
+      <title>Gender Bias in Publishing in ASM Journals</title>
+      <link>https://akhagan.com/talk/gender-bias-in-publishing-in-asm-journals/</link>
+      <pubDate>Fri, 16 Jun 2023 16:00:00 +0000</pubDate>
+      <guid>https://akhagan.com/talk/gender-bias-in-publishing-in-asm-journals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Overview of a Gender-based Analysis of Publishing Outcomes</title>
+      <link>https://akhagan.com/talk/overview-of-a-gender-based-analysis-of-publishing-outcomes/</link>
+      <pubDate>Wed, 01 Feb 2023 09:00:00 +0000</pubDate>
+      <guid>https://akhagan.com/talk/overview-of-a-gender-based-analysis-of-publishing-outcomes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equal Opportunities in Microbiology Journals Don&#39;t Start at Submission</title>
+      <link>https://akhagan.com/talk/equal-opportunities-in-microbiology-journals-dont-start-at-submission/</link>
+      <pubDate>Thu, 14 Jul 2022 09:00:00 +0000</pubDate>
+      <guid>https://akhagan.com/talk/equal-opportunities-in-microbiology-journals-dont-start-at-submission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Equal Opportunities in Microbiology Journals</title>
+      <link>https://akhagan.com/talk/equal-opportunities-in-microbiology-journals/</link>
+      <pubDate>Sun, 11 Jul 2021 13:15:00 +0000</pubDate>
+      <guid>https://akhagan.com/talk/equal-opportunities-in-microbiology-journals/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

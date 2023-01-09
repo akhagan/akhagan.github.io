@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Ada K Hagan, PhdD</title>
+    <link>https://akhagan.com/publication-type/3/</link>
+      <atom:link href="https://akhagan.com/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akhagan.com/media/icon_huc429f2fc0b4e7d8d8064836fcb38b408_31117_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>https://akhagan.com/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>The U.S. academic job market survives the SARS-CoV-2 global pandemic</title>
+      <link>https://akhagan.com/publication/kozik-preprint-2022/</link>
+      <pubDate>Tue, 05 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://akhagan.com/publication/kozik-preprint-2022/</guid>
+      <description>&lt;p&gt;Desk reject from &lt;em&gt;Science&lt;/em&gt;. Available at bioRxiv as a preprint!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

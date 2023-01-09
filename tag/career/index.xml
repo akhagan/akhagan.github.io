@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Career | Ada K Hagan, PhdD</title>
+    <link>https://akhagan.com/tag/career/</link>
+      <atom:link href="https://akhagan.com/tag/career/index.xml" rel="self" type="application/rss+xml" />
+    <description>Career</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 May 2021 11:58:58 -0400</lastBuildDate>
+    <image>
+      <url>https://akhagan.com/media/icon_huc429f2fc0b4e7d8d8064836fcb38b408_31117_512x512_fill_lanczos_center_3.png</url>
+      <title>Career</title>
+      <link>https://akhagan.com/tag/career/</link>
+    </image>
+    
+    <item>
+      <title>Ten simple rules to increase computational skills among biologists with Code Clubs</title>
+      <link>https://akhagan.com/publication/ten-simple-rules-to-increase-computational-skills/</link>
+      <pubDate>Mon, 24 May 2021 11:58:58 -0400</pubDate>
+      <guid>https://akhagan.com/publication/ten-simple-rules-to-increase-computational-skills/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Altering the Academic Ecosystem: Graduate Education Reports Propose Critical Reforms</title>
+      <link>https://akhagan.com/post/altering-the-academic-ecosystem-graduate-education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://akhagan.com/post/altering-the-academic-ecosystem-graduate-education/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

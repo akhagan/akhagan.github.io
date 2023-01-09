@@ -1,0 +1,18 @@
+{
+  "name": "Ada K Hagan, PhdD",
+  "short_name": "Ada K Hagan, PhdD",
+  "lang": "en-us",
+  "theme_color": "#975AB6",
+  "background_color": "#975AB6",
+  "icons": [{
+    "src": "/media/icon_huc429f2fc0b4e7d8d8064836fcb38b408_31117_192x192_fill_lanczos_center_3.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/media/icon_huc429f2fc0b4e7d8d8064836fcb38b408_31117_512x512_fill_lanczos_center_3.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

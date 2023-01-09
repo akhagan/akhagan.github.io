@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project | Ada K Hagan, PhdD</title>
+    <link>https://akhagan.com/category/project/</link>
+      <atom:link href="https://akhagan.com/category/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Project</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 May 2021 11:57:51 -0400</lastBuildDate>
+    <image>
+      <url>https://akhagan.com/media/icon_huc429f2fc0b4e7d8d8064836fcb38b408_31117_512x512_fill_lanczos_center_3.png</url>
+      <title>Project</title>
+      <link>https://akhagan.com/category/project/</link>
+    </image>
+    
+    <item>
+      <title>Women Are Underrepresented and Receive Differential Outcomes at ASM Journals: a Six-Year Retrospective Analysis</title>
+      <link>https://akhagan.com/publication/women-are-underrepresented-and-receive-differential-outcomes-at-asm-journals/</link>
+      <pubDate>Mon, 24 May 2021 11:57:51 -0400</pubDate>
+      <guid>https://akhagan.com/publication/women-are-underrepresented-and-receive-differential-outcomes-at-asm-journals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Suggestions for Improving Invited Speaker Diversity To Reflect Trainee Diversity</title>
+      <link>https://akhagan.com/publication/suggestions-for-improving-invited-speaker-diversity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://akhagan.com/publication/suggestions-for-improving-invited-speaker-diversity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
