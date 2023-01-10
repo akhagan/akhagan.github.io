@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data | Ada K Hagan, PhdD</title>
+    <link>https://akhagan.com/tag/data/</link>
+      <atom:link href="https://akhagan.com/tag/data/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akhagan.com/media/icon_huc429f2fc0b4e7d8d8064836fcb38b408_31117_512x512_fill_lanczos_center_3.png</url>
+      <title>Data</title>
+      <link>https://akhagan.com/tag/data/</link>
+    </image>
+    
+    <item>
+      <title>The Faculty Job Market Collaboration</title>
+      <link>https://akhagan.com/project/fjmcollab/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://akhagan.com/project/fjmcollab/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

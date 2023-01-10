@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources | Ada K Hagan, PhdD</title>
+    <link>https://akhagan.com/tag/resources/</link>
+      <atom:link href="https://akhagan.com/tag/resources/index.xml" rel="self" type="application/rss+xml" />
+    <description>Resources</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://akhagan.com/media/icon_huc429f2fc0b4e7d8d8064836fcb38b408_31117_512x512_fill_lanczos_center_3.png</url>
+      <title>Resources</title>
+      <link>https://akhagan.com/tag/resources/</link>
+    </image>
+    
+    <item>
+      <title>Diversify Digest</title>
+      <link>https://akhagan.com/project/diversify-digest/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://akhagan.com/project/diversify-digest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversify Immunology</title>
+      <link>https://akhagan.com/project/diversify-immunology/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://akhagan.com/project/diversify-immunology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diversify Microbiology</title>
+      <link>https://akhagan.com/project/diversify-microbiology/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://akhagan.com/project/diversify-microbiology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
